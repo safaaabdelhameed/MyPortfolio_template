@@ -321,22 +321,6 @@ body{
 }
 /* End pricing */
 
-/* Start items */ 
-/* .services{
-    overflow: hidden;
-}
-.services .services-items{
-    margin: 50px 0;
-}
-.services .services-items .services-item{
-    width: 30%;
-    float: left;
-    margin-right: 3%;
-}
-.services .services-items .services-item img{
-    width: 100%;
-} */
-/* End items */ 
 .web{
     overflow: hidden;
     padding: 50px 0;
