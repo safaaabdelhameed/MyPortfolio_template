@@ -335,6 +335,7 @@ body{
 .web .web-items .web-item{
     width: 30%;
     float: left;
+    cursor: pointer;
     margin-right: 3%;
     border: 1px solid #ccc;
     padding: 25px;
