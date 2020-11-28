@@ -355,6 +355,18 @@ body{
     border: 1px solid #ccc;
     padding: 25px;
     box-shadow: 10px 8px 5px #ccc;
+    transition: all 1s;
+    -webkit-transition: all 1s;
+    -moz-transition: all 1s;
+    -ms-transition: all 1s;
+    -o-transition: all 1s;
+}
+.web .web-items .web-item:hover{
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    -o-transform: scale(1.2);
 }
 
 .web .web-items .web-item i{
